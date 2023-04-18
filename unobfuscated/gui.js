@@ -686,7 +686,7 @@
                     },
                     {
                         name: "Flood Game",
-                        description: "Floods a game with a number of fake accounts",
+                        description: "Floods a game with a number of fake silly accounts",
                         inputs: [
                             {
                                 name: "Game ID",
@@ -1657,7 +1657,7 @@
                     },
                     {
                         name: "Password ESP",
-                        description: "Highlights the correct password",
+                        description: "Shows the correct password Made By Br1anYT ",
                         type: "toggle",
                         enabled: false,
                         data: null,
